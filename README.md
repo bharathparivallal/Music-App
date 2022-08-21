@@ -1,6 +1,6 @@
 # Music-App
 
-API are in Postman : https://documenter.getpostman.com/view/11739145/VUqpsx9i
+API are in Postman : https://documenter.getpostman.com/view/9032682/VUqpsxTL
 
 User Schema
 ![image](https://user-images.githubusercontent.com/50397972/185789129-0b27703f-3426-4207-b5cf-e88613799362.png)
