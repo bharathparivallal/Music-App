@@ -13,4 +13,12 @@ Step To Run
 2. npm i
 3. Add .env file in your code 
 ![image](https://user-images.githubusercontent.com/50397972/185789180-e666829f-34d7-4fab-9fb1-c801005f7e44.png)
+content :
+NODE_ENV='production'
+PORT=3000
+dbUrl=mongodb+srv://pbp:kkV2p9DYZHJtOB2m@music-app.i8fbjsa.mongodb.net/musicapp
+JWT_SECRET='pbpMusicApp'
+JWT_ACCESS_DURATION=1h
+JWT_REFRESH_DURATION=2h
+
 4. Run by "npm run start:dev"
